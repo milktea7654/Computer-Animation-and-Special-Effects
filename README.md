@@ -9,5 +9,5 @@
 | Homework | Topic 
 |----------|-------
 | Homework 1 | Particle System |
-| Homework 2 | KinematicsHW2 |
+| Homework 2 | Kinematics |
 | Homework 3 | 2D Fluid Simulation |
