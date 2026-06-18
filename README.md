@@ -1,19 +1,14 @@
-# Computer Animation and Special Effects
+# Intro. to Network Programming    
 
-This repository keeps the complete working project for each homework.
+ **Note**
+- **Instructor**: 袁賢銘
+- **Semester**: 2025 Fall
 
-## Structure
+## Homework
 
-```text
-HW1/project/   SoftSim project
-HW2/project/   InverseKinematics project
-HW3/project/   2dFluidSim project
-```
-
-## Entry Points
-
-- HW1: `HW1/project/SoftSim.sln` or `HW1/project/CMakeLists.txt`
-- HW2: `HW2/project/InverseKinematics.sln` or `HW2/project/CMakeLists.txt`
-- HW3: `HW3/project/2dFluidSim.sln`
-
-Only the most complete working project copies are kept. Starter archives, extracted submissions, assignment PDFs, reports, and cache/build outputs have been removed.
+| Homework | Topic | Score |
+|----------|-------|-------|
+| Homework 1 | Two-Player Online Game | 90/100 |
+| Homework 2 | 雙人即時對戰遊戲設計與實作（雙人俄羅斯方塊） | 120/120 |
+| Homework 3 | Game Store System | 110/120 |
+# Introduction-to-Operating-Systems
