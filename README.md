@@ -11,3 +11,16 @@
 | Homework 1 | Particle System |
 | Homework 2 | Kinematics |
 | Homework 3 | 2D Fluid Simulation |
+
+## Repository Structure
+
+```text
+.
+├── HW1/
+├── HW2/
+├── HW3/
+├── HW4/
+├── final-project/
+├── .gitignore
+└── .gitmodules
+```
